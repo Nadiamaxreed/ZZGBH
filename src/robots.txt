@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin_hm/
+Disallow: /inc/
+Disallow: /Plug/
+
+Sitemap: https://zzgbh.hm-d.cn/sitemap.xml
